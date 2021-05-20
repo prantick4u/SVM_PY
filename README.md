@@ -24,5 +24,14 @@ N.B. We need to install the following dependencies:
   - numpy
   - matplotlib
   - scikit-learn
+
+Results:
+
+Predicted Data vs Actual Data:
+
 ![Figure_2](https://user-images.githubusercontent.com/18325530/118940629-898a1080-b96e-11eb-8a6e-81f036319ebc.png)
+
+
+Graphical representation of percentage of explained variance vs degree of components:
+
 ![Figure_1](https://user-images.githubusercontent.com/18325530/118940635-8abb3d80-b96e-11eb-92b9-244290e1794e.png)
