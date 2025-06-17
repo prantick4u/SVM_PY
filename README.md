@@ -36,6 +36,5 @@ Graphical representation of percentage of explained variance vs degree of compon
 
 ![Figure_1](https://user-images.githubusercontent.com/18325530/118940635-8abb3d80-b96e-11eb-92b9-244290e1794e.png)
 
-N.B: this work has been exercised as part of Coursera project network:
 
 https://www.coursera.org/account/accomplishments/certificate/FUYYS8QLD9BN
